@@ -3,7 +3,7 @@ Join us for a round table of analyzing, critical thinking and creating with Java
 ## Pre-requisites:
 - JavaScript Track: JS130, Up to Testing
 - Ruby Track: JS225
-- Understand Bloom's Taxonomy Launch School Presentation, General introduction and List of Questions.
+- Understand Bloom's [Taxonomy Launch School Presentation](https://www.reddit.com/r/launchschool/comments/kvf6pv/blooms_taxonomy_x_launch_school/), [General introduction](https://tophat.com/blog/blooms-taxonomy/) and [List of Questions](https://www.eoas.ubc.ca/research/cwsei/resources/Blooms-verbs-stems.htm).
 ## Goals for the Group
 - Practice problem solving collaboratively & intentionally
 - Group programming
