@@ -24,7 +24,7 @@ This is a space for everyone to contribute, participate, take risks, experiment,
 - A mini collaborative project
 ### Session Example
 #### The session leader comes up with a topic or question for the group.
-Example: 'Compare functions and classes (what are functions, what are classes? How are they related? How are they similar? How are they different?)'.
+[Session's template] (https://github.com/DanielCosme/Launch-School-Advanced-JavaScript-Discussion-Group/blob/main/Sample%20Questions%20and%20Example.md)
 #### The group focuses on discussion
 To answer this question, we would firstly need to recall the definitions of both classes and functions, then we would need to relate the knowledge we have about classes with what we know about functions. Then we would need to analyze, compare and find a relationship between them. Questions/tasks like that focus on: 'how?', 'why?', 'apply', 'analyze', 'compare' and 'what if?' instead of 'name', 'list', 'define'.
 The group will take place every **Thursday at 12pm EST** (about 1h). The group is limited to 4 attendees, including the leader.  If you are interested in attending, comment below and let us know if you want to lead or just participate this time.  
