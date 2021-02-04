@@ -25,4 +25,7 @@ This is a space for everyone to contribute, participate, take risks, experiment,
 ### Session Example
 #### The session leader comes up with a topic or question for the group.
 [Session's template and ideas for the session](https://github.com/DanielCosme/Launch-School-Advanced-JavaScript-Discussion-Group/blob/main/Sample%20Questions%20and%20Example.md/)
+### Feedback form 
+Would you like to share something with us or have any ideas how we can improve?  
+Use a [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScjOpblUV44_B5rObMawzP2HttW9EuMqZYaMpM8TkzPA4AmUQ/viewform)
 
