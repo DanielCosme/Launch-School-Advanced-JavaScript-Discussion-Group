@@ -3,7 +3,7 @@ Join us for an hour of of analyzing, critical thinking and creating with JavaScr
 ## Pre-requisites:
 - JavaScript Track: JS130
 - Ruby Track: JS225
-- Check out Bloom's Taxonomy with one of these: [Launch School Presentation](https://www.reddit.com/r/launchschool/comments/kvf6pv/blooms_taxonomy_x_launch_school/), [General introduction](https://tophat.com/blog/blooms-taxonomy/) and [List of Questions](https://www.eoas.ubc.ca/research/cwsei/resources/Blooms-verbs-stems.htm).
+- Check out Bloom's Taxonomy for inspiration with one of these: [Launch School Presentation](https://www.reddit.com/r/launchschool/comments/kvf6pv/blooms_taxonomy_x_launch_school/), [General introduction](https://tophat.com/blog/blooms-taxonomy/) and [List of Questions](https://www.eoas.ubc.ca/research/cwsei/resources/Blooms-verbs-stems.htm).
 ## Goals for the Group
 - Practice intentional problem solving collaboratively 
 - Practice technical communication and precision
