@@ -11,7 +11,7 @@ Join us for an hour of of analyzing, critical thinking and creating with JavaScr
 ## Guidelines for Participants
 - If you feel comfortable with a question, make space for others first, then help them fill their gaps. 
 - This is a space for everyone to contribute, participate, take risks and experiment. Be open-minded, willing to learn and respect the LS Code of Conduct and Community Guidelines. 
-- Everyone should lead the session at least once.
+- We encourage everyone to lead a session at least once
 - Weekly rotation of leader.
 ## Guidelines for Leader
 - Prepare a task for the group
